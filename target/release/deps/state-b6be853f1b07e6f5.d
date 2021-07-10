@@ -1,0 +1,12 @@
+/Users/piavgh/Dev/Learning/rust/rust-bookmarking-tool/target/release/deps/state-b6be853f1b07e6f5.rmeta: /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs
+
+/Users/piavgh/Dev/Learning/rust/rust-bookmarking-tool/target/release/deps/libstate-b6be853f1b07e6f5.rlib: /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs
+
+/Users/piavgh/Dev/Learning/rust/rust-bookmarking-tool/target/release/deps/state-b6be853f1b07e6f5.d: /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs /Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs
+
+/Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs:
+/Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs:
+/Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs:
+/Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs:
+/Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs:
+/Users/piavgh/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs:
