@@ -2,6 +2,7 @@
 
 use rocket::response::Redirect;
 // Test comment
+// Another test comment
 mod utils;
 
 #[get("/")]
